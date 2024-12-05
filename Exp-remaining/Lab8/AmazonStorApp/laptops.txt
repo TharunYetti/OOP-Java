@@ -1,0 +1,4 @@
+//laptops.txt
+Lenovo 14S3 20000
+Windows 24J7 25000
+Acer 24HK 19000

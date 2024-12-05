@@ -1,0 +1,20 @@
+------------------------
+Student name:Tharun
+Student Age:18
+Student mail:gftyusiojek
+------------------------
+Student name:hello
+Student Age:23
+Student mail:jkshgyur
+------------------------
+Student name:tharun
+Student Age:23
+Student mail:tharunyetti24@gmail.com
+------------------------
+Student name:aui
+Student Age:12
+Student mail:ajlhf98a
+------------------------
+Student name:sjbuir
+Student Age:23
+Student mail:jkshui

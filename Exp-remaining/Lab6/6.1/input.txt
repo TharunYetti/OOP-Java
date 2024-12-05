@@ -1,0 +1,7 @@
+1. Write java program for reading input.txt and display the following results
+a. Count total number of words from input.txt
+b. Count total number of characters from input.txt
+c. Count total number of lines from input.txt
+d. Count total number of digits from input.txt
+e. Count total number of spaces from input.txt
+f. Count total number of special characters from input.txt

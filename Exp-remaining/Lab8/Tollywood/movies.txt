@@ -1,0 +1,6 @@
+
+//movies.txt
+Bahubai Praboss rajamaoui 6 345678.0
+KGF Yash Neel 19 135235.0
+EEGA nani rajamouli 3 234567.0
+khiladi raviteja yuhvb 6 23456.0
