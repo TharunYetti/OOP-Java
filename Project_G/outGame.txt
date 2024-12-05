@@ -1,0 +1,7 @@
+							Guess The Word Game Results
+
+Name : hello	Score Percentage : 80.0
+Name : afweg	Score Percentage : 94.11764705882352
+Name : Tharun	Score Percentage : 66.66666666666666
+Name : Tharun	Score Percentage : 80.0
+Name : tuiabjdk	Score Percentage : -183.33333333333331
