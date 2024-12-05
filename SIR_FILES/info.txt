@@ -1,0 +1,13 @@
+Different modules specified in the design document are coded in the 
+coding phase according to the module specification
+The main goal of the coding phase is to code from the design documents 
+prepared after the design phase through a high-level language and 
+then to unit test this code.
+Good software development organizations want their programmers 
+to maintain to some well-defined and standard style of coding 
+called coding standards.
+They usually make their own coding standards and 
+guidelines depending on what suits for their organization 
+best and based on the types of software they are going to develop
+It is very important for the programmers to maintain 
+the coding standards otherwise the code will be rejected during code review.

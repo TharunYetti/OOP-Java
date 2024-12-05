@@ -1,0 +1,9 @@
+CompleteRef JamesGosling james@java M 500 200 1300
+WingsOfFire APJ kalam@India M 100 1000 200
+YouCanWin ShivKher shiv@India M 200 600 300
+IgnitedMinds APJ kalam@India M 200 500 200
+DiscoveryOfIndia JNehru Nehru@India M 700 500 300
+CLang Dennis ritche@clang M 1000 700 500
+HarryPoter Rowling jk@fiction F 100 500 800
+MalgudiDays Narayanan rk@India M 500 200 400
+WhatisMyName Satyavathi satyavathi@India F 300 400 500

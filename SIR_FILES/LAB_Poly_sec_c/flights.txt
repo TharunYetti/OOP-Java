@@ -1,0 +1,4 @@
+BA101 Kadapa Vijayawada 200 2000.0
+BA102 Tirupathi Chennai 300 2500.0
+BA103 Vijayawada Vizag 300 1000.0
+BA104 Kadapa Chittor 400 1000.0

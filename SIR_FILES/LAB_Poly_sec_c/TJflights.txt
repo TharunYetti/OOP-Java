@@ -1,0 +1,4 @@
+TJ301 Karnataka Vijayawada 300 2500.0
+TJ302 Tirupathi Hyderabad 320 2000.0
+TJ303 Secundrabad Yerraguntla 400 1700.0
+TJ304 Kadapa Nellore 150 900.0

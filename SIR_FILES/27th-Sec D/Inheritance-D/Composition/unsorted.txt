@@ -1,0 +1,6 @@
+HarryPotter Rowling jk@harry F 300 100
+RichDad&PoorDad Robert lew@book M 100 500
+LetUsC Yeswanth yes@clang M 200 600
+DataStructures Reema Thareja@ds F 300 500
+CompleteReference TataMech hills@tata M 200 600
+Ramayana Valmiki valmiki@maharshi M 100 1000

@@ -1,0 +1,6 @@
+BAS101 Kadapa Vizag 4000 300
+BAS102 Kadapa Chennai 3000 200
+BAS103 Kadapa Hyderabad 2000 300
+BAS104 Kadapa Bengaluru 3000 300
+BAS105 Kadapa Goa 5000 300
+BAS106 Kadapa Delhi 10000 400

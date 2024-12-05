@@ -1,0 +1,4 @@
+AI201 Karnataka Vijayawada 300 2500.0
+AI202 Tirupathi Hyderabad 350 2000.0
+AI203 Secundrabad Yerraguntla 400 1700.0
+AI204 Kadapa Nellore 150 900.0
