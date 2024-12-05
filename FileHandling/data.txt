@@ -1,0 +1,5 @@
+HI all
+My name is Tharun
+I am studying a well known degree which is base for any job😂️
+Here i am testing whether i can read lines from the data.txt named file
+successfully read!

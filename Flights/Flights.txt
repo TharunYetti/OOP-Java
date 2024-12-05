@@ -1,0 +1,4 @@
+BA101 Kadapa Vijayawada 200 2000
+BA102 Tirupati Chennai 300 2500
+BA103 Vijayawada Viaz 300 1000
+BA104 Kadapa Chittor 400 1000
