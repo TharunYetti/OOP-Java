@@ -1,0 +1,261 @@
+--------- Match 1 ScoreCard ---------
+	CSK	 Score:127	Overs:9
+	RCB	 Score:143	Overs:8
+  Winner:RCB
+
+--------- Match 2 ScoreCard ---------
+	RR	 Score:239	Overs:14
+	SRH	 Score:153	Overs:10
+  Winner:RR
+
+--------- Match 3 ScoreCard ---------
+	CSK	 Score:166	Overs:9
+	DC	 Score:335	Overs:16
+  Winner:DC
+
+--------- Match 4 ScoreCard ---------
+	PK	 Score:91	Overs:6
+	SRH	 Score:344	Overs:18
+  Winner:SRH
+
+--------- Match 5 ScoreCard ---------
+	CSK	 Score:44	Overs:4
+	GT	 Score:170	Overs:11
+  Winner:GT
+
+--------- Match 6 ScoreCard ---------
+	PK	 Score:129	Overs:8
+	RR	 Score:112	Overs:7
+  Winner:PK
+
+--------- Match 7 ScoreCard ---------
+	CSK	 Score:372	Overs:19
+	KKR	 Score:116	Overs:8
+  Winner:CSK
+
+--------- Match 8 ScoreCard ---------
+	LSG	 Score:130	Overs:8
+	SRH	 Score:205	Overs:11
+  Winner:SRH
+
+--------- Match 9 ScoreCard ---------
+	CSK	 Score:176	Overs:9
+	MI	 Score:192	Overs:11
+  Winner:MI
+
+--------- Match 10 ScoreCard ---------
+	LSG	 Score:237	Overs:13
+	RR	 Score:224	Overs:11
+  Winner:LSG
+
+--------- Match 11 ScoreCard ---------
+	CSK	 Score:280	Overs:14
+	LSG	 Score:109	Overs:7
+  Winner:CSK
+
+--------- Match 12 ScoreCard ---------
+	LSG	 Score:193	Overs:10
+	PK	 Score:80	Overs:5
+  Winner:LSG
+
+--------- Match 13 ScoreCard ---------
+	CSK	 Score:181	Overs:11
+	PK	 Score:111	Overs:6
+  Winner:CSK
+
+--------- Match 14 ScoreCard ---------
+	MI	 Score:421	Overs:20
+	SRH	 Score:274	Overs:16
+  Winner:MI
+
+--------- Match 15 ScoreCard ---------
+	CSK	 Score:75	Overs:6
+	RR	 Score:231	Overs:12
+  Winner:RR
+
+--------- Match 16 ScoreCard ---------
+	MI	 Score:123	Overs:8
+	RR	 Score:201	Overs:12
+  Winner:RR
+
+--------- Match 17 ScoreCard ---------
+	CSK	 Score:326	Overs:16
+	SRH	 Score:322	Overs:16
+  Winner:CSK
+
+--------- Match 18 ScoreCard ---------
+	MI	 Score:192	Overs:10
+	PK	 Score:133	Overs:7
+  Winner:MI
+
+--------- Match 19 ScoreCard ---------
+	RCB	 Score:176	Overs:10
+	DC	 Score:204	Overs:11
+  Winner:DC
+
+--------- Match 20 ScoreCard ---------
+	MI	 Score:178	Overs:10
+	LSG	 Score:219	Overs:13
+  Winner:LSG
+
+--------- Match 21 ScoreCard ---------
+	RCB	 Score:219	Overs:13
+	GT	 Score:200	Overs:11
+  Winner:RCB
+
+--------- Match 22 ScoreCard ---------
+	KKR	 Score:234	Overs:13
+	SRH	 Score:321	Overs:18
+  Winner:SRH
+
+--------- Match 23 ScoreCard ---------
+	RCB	 Score:148	Overs:9
+	KKR	 Score:143	Overs:8
+  Winner:RCB
+
+--------- Match 24 ScoreCard ---------
+	KKR	 Score:184	Overs:11
+	RR	 Score:247	Overs:12
+  Winner:RR
+
+--------- Match 25 ScoreCard ---------
+	RCB	 Score:152	Overs:9
+	MI	 Score:234	Overs:13
+  Winner:MI
+
+--------- Match 26 ScoreCard ---------
+	KKR	 Score:260	Overs:14
+	PK	 Score:42	Overs:3
+  Winner:KKR
+
+--------- Match 27 ScoreCard ---------
+	RCB	 Score:81	Overs:6
+	LSG	 Score:194	Overs:10
+  Winner:LSG
+
+--------- Match 28 ScoreCard ---------
+	KKR	 Score:175	Overs:10
+	LSG	 Score:219	Overs:11
+  Winner:LSG
+
+--------- Match 29 ScoreCard ---------
+	RCB	 Score:135	Overs:8
+	PK	 Score:141	Overs:8
+  Winner:PK
+
+--------- Match 30 ScoreCard ---------
+	KKR	 Score:224	Overs:13
+	MI	 Score:246	Overs:13
+  Winner:MI
+
+--------- Match 31 ScoreCard ---------
+	RCB	 Score:182	Overs:11
+	RR	 Score:62	Overs:5
+  Winner:RCB
+
+--------- Match 32 ScoreCard ---------
+	GT	 Score:284	Overs:14
+	SRH	 Score:159	Overs:10
+  Winner:GT
+
+--------- Match 33 ScoreCard ---------
+	RCB	 Score:239	Overs:12
+	SRH	 Score:239	Overs:13
+  Winner:SRH
+
+--------- Match 34 ScoreCard ---------
+	GT	 Score:200	Overs:12
+	RR	 Score:159	Overs:9
+  Winner:GT
+
+--------- Match 35 ScoreCard ---------
+	DC	 Score:171	Overs:10
+	GT	 Score:146	Overs:9
+  Winner:DC
+
+--------- Match 36 ScoreCard ---------
+	GT	 Score:259	Overs:14
+	PK	 Score:142	Overs:8
+  Winner:GT
+
+--------- Match 37 ScoreCard ---------
+	DC	 Score:141	Overs:9
+	KKR	 Score:124	Overs:9
+  Winner:DC
+
+--------- Match 38 ScoreCard ---------
+	GT	 Score:395	Overs:20
+	LSG	 Score:198	Overs:11
+  Winner:GT
+
+--------- Match 39 ScoreCard ---------
+	DC	 Score:143	Overs:8
+	MI	 Score:228	Overs:12
+  Winner:MI
+
+--------- Match 40 ScoreCard ---------
+	GT	 Score:124	Overs:8
+	MI	 Score:196	Overs:12
+  Winner:MI
+
+--------- Match 41 ScoreCard ---------
+	DC	 Score:134	Overs:8
+	LSG	 Score:103	Overs:7
+  Winner:DC
+
+--------- Match 42 ScoreCard ---------
+	GT	 Score:117	Overs:7
+	KKR	 Score:134	Overs:8
+  Winner:KKR
+
+--------- Match 43 ScoreCard ---------
+	DC	 Score:190	Overs:12
+	PK	 Score:145	Overs:9
+  Winner:DC
+
+--------- Match 44 ScoreCard ---------
+	DC	 Score:205	Overs:11
+	SRH	 Score:199	Overs:11
+  Winner:DC
+
+--------- Match 45 ScoreCard ---------
+	DC	 Score:136	Overs:9
+	RR	 Score:177	Overs:11
+  Winner:RR
+
+--------- SEMIFINAL Match 1 ScoreCard ---------
+	MI	 Score:127	Overs:8
+	GT	 Score:326	Overs:17
+  Winner:GT
+
+--------- SEMIFINAL Match 2 ScoreCard ---------
+	DC	 Score:207	Overs:12
+	RR	 Score:282	Overs:14
+  Winner:RR
+
+--------- FINAL MATCH SCORECARD ---------
+	GT	 Score:163	Overs:10
+	RR	 Score:169	Overs:10
+  Winner:RR
+
+
+						<<<<<<<<<<<<<<<<< IPL BOARD >>>>>>>>>>>>>>>>
+
+						>>> RR		Wins: 7		NetRunRate: 38.0
+						>>> MI		Wins: 7		NetRunRate: 33.0
+						>>> DC		Wins: 7		NetRunRate: 21.0
+						>>> GT		Wins: 6		NetRunRate: 50.0
+						>>> LSG		Wins: 5		NetRunRate: 30.0
+						>>> CSK		Wins: 4		NetRunRate: 31.0
+						>>> SRH		Wins: 4		NetRunRate: 24.0
+						>>> RCB		Wins: 4		NetRunRate: 13.0
+						>>> KKR		Wins: 2		NetRunRate: 17.0
+						>>> PK		Wins: 2		NetRunRate: 2.0
+
+***** ***  *         *   * ***** *    * *    * ***** ****       ***   ***   ***   ***      *****  ***      ****  ****  
+  *   *  * *         *   *   *   **   * **   * *   * *   *     *   * *   * *   * *   *       *   *   *     *   * *   * 
+  *   *  * *         *   *   *   * *  * * *  * *     *   *     *  *  *   * *  *      *       *   *         *   * *   * 
+  *   ***  *         * * *   *   *  * * *  * * ****  *  *        *   *   *   *    ***        *    ***      *  *  *  *  
+  *   *    *         * * *   *   *   ** *   ** *     ***        *    *   *  *        *       *       *     ***   ***   
+  *   *    *         * * *   *   *    * *    * *   * *  *      *     *   * *     *   *       *   *   *     *  *  *  *  
+***** *    *****      * *  ***** *    * *    * ***** *   *     *****  ***  *****  ***      *****  ***      *   * *   * 

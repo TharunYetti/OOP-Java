@@ -1,0 +1,10 @@
+method not found,cannot find symbol for scanner,unintialised local variable,cannot find symbol while instantiating the class
+ArrayIndexOutOfBounds,IOException must be caought or to be thrown while using buffered components,method in a class cannot be applied to given types due to imbalancing of number of arguments,missing return statemet,variable i might not have been initialized
+non-static variable cannot be referenced from static content,imcompatable type-unexpected return value
+child class not overriding abstract class method in parent class,unreported IOException must be caught or to be thrown
+variable has private access in parent class,logical error data not written into the file,all methods of the implemented interface must be overridden,non-static variable cannot be referencced from static content
+cannot find symbol:StringTokenizer(util),FileNotFoundError for FileReader,logical error-data is overwritten in the file
+logical error-data not written into file(closing),unreported exception PrimeException; must be caught or declared to be thrown
+bad operand types for binary operator '>=',cannot find Symbol-FileReadermBufferedReader,logical error-break statement missing
+run() in Registrar cannot implement run() in Runnable,unreported exception InterruptedException; must be caught or declared to be thrown-wait(),logical error-thread is not synchronized\
+cannot find symbol container(java.awt.*;),logical error-components not added to the frame,canot find symbol raised for actionListener(java.awt.event.*)
